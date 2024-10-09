@@ -1,6 +1,6 @@
 
 
-<h2>Graphics Applications</h2>
+<h1>Graphics Applications</h1>
 <p></p>
 <p></p>
 
@@ -18,7 +18,7 @@
   </nav>
   
   <article>
-    <h1>Description</h1>
+    <h2>Description</h2>
     <p>A repository for the for Programming 340</p>
     
   </article>
