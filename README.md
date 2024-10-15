@@ -11,7 +11,7 @@
 <section>
   <nav >
     <ul>
-      <li>TRianglw<a href="https://github.com/MarinaPollak/OpenGL/tree/main/OpenGlWindows">Link1</a></li>
+      <li>Two trianles that make one rectangle<a href="https://github.com/MarinaPollak/OpenGL/tree/main/OpenGlWindows">Link1</a></li>
       <li><a href="#">Link2</a></li>
       <li><a href="#">Link3</a></li>
     </ul>
