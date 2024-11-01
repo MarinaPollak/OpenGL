@@ -11,7 +11,7 @@
 <section>
   <nav >
     <ul>
-      <li><a href="https://github.com/MarinaPollak/OpenGL/tree/main/ShapeTransformations/OpenGlWindows" Shapes Transformation With a Background Changing</a></li>
+      <li><a href="https://github.com/MarinaPollak/OpenGL/tree/main/ShapeTransformations/OpenGlWindows"> Shapes Transformation With a Background Changing</a></li>
       <li><a href="#">Link2</a></li>
       <li><a href="#">Link3</a></li>
     </ul>
