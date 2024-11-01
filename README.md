@@ -1,6 +1,6 @@
 
 
-<h1>Graphics Applications</h1>
+<h1>Graphics Applications Portfolio</h1>
 <p></p>
 <p></p>
 
