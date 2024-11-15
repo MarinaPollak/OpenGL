@@ -19,28 +19,28 @@ This project demonstrates various shape transformations and movements using Open
 
 ### Installation
 
-1. **Clone the repository** (if applicable):
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
+1. **Clone the repository** (pull OenGLWindows to the repos):
 
 2. **Install GLFW and GLAD**:
    - GLFW can be installed via package managers or from the [GLFW website](https://www.glfw.org/).
    - GLAD loader files can be generated from the [GLAD website](https://glad.dav1d.de/) for OpenGL 3.3 (Core profile).
 
 3. **Compile and Run**:
-   - Use a C++ compiler with OpenGL support.
-   - Example compilation command (replace paths with actual locations):
-     ```bash
-     g++ -o ShapeTransformations main.cpp -lglfw -lGL -ldl -lGLU
-     ```
-   - Run the compiled executable:
-     ```bash
-     ./ShapeTransformations
-     ```
+  
 
 ## Usage
+
+<table>
+  <tr>
+    <td><img width="387" alt="Screenshot 2024-11-15 at 5 04 30 PM" src="https://github.com/user-attachments/assets/823042f0-9d18-4c95-bce7-81c5277a5f3f"></td>
+    <td><img width="387" alt="Screenshot 2024-11-15 at 5 05 49 PM" src="https://github.com/user-attachments/assets/4b667395-acba-49c8-96ca-f24ff3428ffd"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="394" alt="Screenshot 2024-11-15 at 5 06 01 PM" src="https://github.com/user-attachments/assets/7c85ba52-37d7-4245-a0ed-366f886abb70"></td>
+  </tr>
+</table>
+
+
 
 This application demonstrates dynamic shape transformation and rendering with OpenGL. The window created by this code will display the following effects:
 
@@ -61,7 +61,8 @@ No additional controls are required; the program runs automatically upon executi
 - **Matrix Functions**:
   - `createRotationMatrix()`: Generates a rotation matrix for rotating shapes.
   - `createTranslationMatrix()`: Generates a translation matrix for moving shapes.
-  - `multiplyMatrices()`: Multiplies matrices for combining transformations.
+  - `multiplyMa![Uploading Screenshot 2024-11-15 at 5.02.50 PM.png…]()
+trices()`: Multiplies matrices for combining transformations.
 - **Interpolation Functions**:
   - `lerp()`: Linearly interpolates between two values.
   - `interpolateVertices()`: Interpolates between two sets of vertices to smoothly transition between shapes.
